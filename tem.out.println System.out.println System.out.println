@@ -1,0 +1,14 @@
+warning: in the working copy of 'src/Main.java', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/src/Main.java b/src/Main.java[m
+[1mindex e860dee..4729222 100644[m
+[1m--- a/src/Main.java[m
+[1m+++ b/src/Main.java[m
+[36m@@ -12,7 +12,7 @@[m [mpublic class Main {[m
+             // Press Mayús+F9 to start debugging your code. We have set one breakpoint[m
+             // for you, but you can always add more by pressing Ctrl+F8.[m
+             System.out.println("i = " + i);[m
+[31m-            System.out.println("Me duermo.");[m
+[32m+[m[32m            System.out.println("Me duermooooooo.");[m
+ [m
+         }[m
+     }[m
